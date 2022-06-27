@@ -1,0 +1,15 @@
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 11 repartir pizza\repartir-pizza\bin\Debug\net6.0\repartit-pizza.exe
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 11 repartir pizza\repartir-pizza\bin\Debug\net6.0\repartit-pizza.deps.json
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 11 repartir pizza\repartir-pizza\bin\Debug\net6.0\repartit-pizza.runtimeconfig.json
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 11 repartir pizza\repartir-pizza\bin\Debug\net6.0\repartit-pizza.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 11 repartir pizza\repartir-pizza\bin\Debug\net6.0\repartit-pizza.pdb
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 11 repartir pizza\repartir-pizza\obj\Debug\net6.0\repartit-pizza.csproj.AssemblyReference.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 11 repartir pizza\repartir-pizza\obj\Debug\net6.0\repartit-pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 11 repartir pizza\repartir-pizza\obj\Debug\net6.0\repartit-pizza.AssemblyInfoInputs.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 11 repartir pizza\repartir-pizza\obj\Debug\net6.0\repartit-pizza.AssemblyInfo.cs
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 11 repartir pizza\repartir-pizza\obj\Debug\net6.0\repartit-pizza.csproj.CoreCompileInputs.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 11 repartir pizza\repartir-pizza\obj\Debug\net6.0\repartit-pizza.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 11 repartir pizza\repartir-pizza\obj\Debug\net6.0\refint\repartit-pizza.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 11 repartir pizza\repartir-pizza\obj\Debug\net6.0\repartit-pizza.pdb
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 11 repartir pizza\repartir-pizza\obj\Debug\net6.0\repartit-pizza.genruntimeconfig.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 11 repartir pizza\repartir-pizza\obj\Debug\net6.0\ref\repartit-pizza.dll
